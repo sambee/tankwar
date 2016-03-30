@@ -1,0 +1,1 @@
+java -jar tankwar-1.0-beta.jar
